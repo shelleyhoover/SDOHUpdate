@@ -9,7 +9,7 @@
 3. Foreign-born %
 
 **Done - to be uploaded**
-1. FQHC Centers (Drive time from nearest centroid)
+1. FQHC Centers 
 
 ## Economic Variables
 **To-Do**
@@ -19,12 +19,12 @@
 **Done - to be uploaded**
 1. Essential Workers
 2. Construction/mining/agriculture (OEPS)
-3. Grocery stores/farmer's markets (Drive time from nearest centroid)
+3. Grocery stores/farmer's markets 
 
 ## Environmental Variables
 **To-Do**
-1.  Greenspace - NDVI (Landsat/Sentinel/NAIP) - Sentinel  
+1.  Greenspace: NDVI - Sentinel  
 2. Bike Lanes (OSM)
 3. Park Access (OSM)
-4. Heat stress - Meteorology data 
+4. Heat stress: Meteorology data 
 5. Elevation (DEM)
