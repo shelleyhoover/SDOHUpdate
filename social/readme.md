@@ -5,4 +5,4 @@
 | Voter Registration | In progress | TBD  | 
 | Internet Access | In progress  | TBD   | 
 | Foreign-born % | In progress  | TBD  | 
-| FQHC Centers  | To be uploaded  | OEPS; Health Center Service Delivery and Look–Alike Sites: https://data.hrsa.gov/data/downloa  | 
+| FQHC Centers  | To be uploaded  | [OEPS](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) |
