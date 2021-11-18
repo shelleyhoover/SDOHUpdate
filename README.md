@@ -18,8 +18,7 @@
 
 **Done - to be uploaded**
 1. Essential Workers
-2. Construction/mining/agriculture (OEPS)
-3. Grocery stores/farmer's markets 
+2. Grocery stores/farmer's markets 
 
 ## Environmental Variables
 **To-Do**
