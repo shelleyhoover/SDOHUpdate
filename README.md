@@ -19,12 +19,12 @@
 **Done - to be uploaded**
 1. Essential Workers
 2. Construction/mining/agriculture (OEPS)
-3. Grocery stores/farmer's markets
+3. Grocery stores/farmer's markets (Drive time from nearest centroid)
 
 ## Environmental Variables
 **To-Do**
-1.  NDVI (Landsat/Sentinel/NAIP) - Sentinel  
+1.  Greenspace - NDVI (Landsat/Sentinel/NAIP) - Sentinel  
 2. Bike Lanes (OSM)
 3. Park Access (OSM)
-4. Meteorology data for heat stress (https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)
+4. Heat stress - Meteorology data 
 5. Elevation (DEM)
