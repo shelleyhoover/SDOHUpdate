@@ -7,16 +7,19 @@
 
 
 
-| Variable  | Header | 
+| Variable  | Column Name | 
 | ------------- | ------------- | 
-| Ethnic/racial minority % | To be uploaded | 
-| Aged ≥ 65 y, %  | To be uploaded  | 
-| Aged ≤ 17 y, % | To be uploaded  | 
-| Disability, %  | To be uploaded  | 
-| Limited English Proficiency, %  | To be uploaded  | 
-| Single parent, %  | To be uploaded  | 
-| Living in poverty, %  | To be uploaded  | 
-| Per capita income, $  | To be uploaded  | 
-| Unemployed, %  | To be uploaded  | 
-| Crowded Housing, %  | To be uploaded  | 
-| No vehicle, %  | To be uploaded  |
+| State | STATE|
+| County Name | COUNTY |
+| FIPS | FIPS |
+| Ethnic/racial minority % | E_MINRTY | 
+| Aged ≥ 65 y, %  | E_AGE65 | 
+| Aged ≤ 17 y, % | E_AGE17  | 
+| Disability, %  | E_DISABL | 
+| Limited English Proficiency, %  | E_LIMENG  | 
+| Single parent, %  | E_SNGPNT  | 
+| Living in poverty, %  | E_POV  | 
+| Per capita income, $  | E_PCI  | 
+| Unemployed, %  | E_UNEMP  | 
+| Crowded Housing, %  | E_CROWD | 
+| No vehicle, %  | E_NOVEH  |
