@@ -3,7 +3,7 @@
 American Community Survey (ACS), 2014-2018 (5-year) 
 
 | Variable  | Source  | Notes |
-| ------------- | ------------- | ------------- | ----- |
+| ------------- | ------------- | ----- |
 | Ethnic/racial minority % |  ACS via CDC SVI  |  Minority (all persons except white, non-Hispanic) estimate, 2014-2018 ACS |
 | Aged ≥ 65 y, %  |  ACS via CDC SVI  | Persons aged 65 and older estimate, 2014-2018 ACS | 
 | Aged ≤ 17 y, % |  ACS via CDC SVI  | Persons aged 17 and younger estimate, 2014-2018 ACS |
