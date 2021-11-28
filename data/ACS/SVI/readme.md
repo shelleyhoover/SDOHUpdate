@@ -16,10 +16,14 @@
 | Aged ≥ 65 y, %  | E_AGE65 | 
 | Aged ≤ 17 y, % | E_AGE17  | 
 | Disability, %  | E_DISABL | 
+| No high school diploma, %	| E_NOHSDP |
 | Limited English Proficiency, %  | E_LIMENG  | 
 | Single parent, %  | E_SNGPNT  | 
 | Living in poverty, %  | E_POV  | 
 | Per capita income, $  | E_PCI  | 
+| Uninsured, % |  E_UNINSUR |
 | Unemployed, %  | E_UNEMP  | 
 | Crowded Housing, %  | E_CROWD | 
 | No vehicle, %  | E_NOVEH  |
+
+
