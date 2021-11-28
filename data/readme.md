@@ -1,8 +1,8 @@
-# SDOH Atlas Update - Data
+# Data
 
 ## New Variables: 
 
-### Social Variables
+## Social Variables
 **To-Do**
 1. Voter Registration
 2. Internet (OEPS+)
@@ -11,7 +11,7 @@
 **Done - to be uploaded**
 1. FQHC Centers 
 
-### Economic Variables
+## Economic Variables
 **To-Do**
 1. Checking Stores, cash apps
 2. Job Opportunity Index
@@ -20,7 +20,7 @@
 1. Essential Workers
 2. Grocery stores/farmer's markets 
 
-### Environmental Variables
+## Environmental Variables
 **To-Do**
 1.  Greenspace: NDVI - Sentinel  
 2. Bike Lanes (OSM)
