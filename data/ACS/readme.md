@@ -9,8 +9,7 @@ American Community Survey (ACS), 2014-2018 (5-year)
 | Aged ≤ 17 y, % | To be uploaded  | ACS via CDC SVI  | Persons aged 17 and younger estimate, 2014-2018 ACS |
 | Disability, %  | To be uploaded  | ACS via CDC SVI  | Civilian noninstitutionalized population with a disability estimate, 2014 -2018 ACS |
 | No high school diploma, %  | To be uploaded  | Source |Persons (age 25+) with no high school diploma estimate, 2014-2018 ACS |
-| Limited English Proficiency, %  | To be uploaded  | ACS via CDC SVI  | Persons (age 5+) who speak English "less than well" estimate, 2014 -2018 ACS
- |
+| Limited English Proficiency, %  | To be uploaded  | ACS via CDC SVI  | Persons (age 5+) who speak English "less than well" estimate, 2014 -2018 ACS|
 | Single parent, %  | To be uploaded  | ACS via CDC SVI | Single parent household with children under 18 estimate, 2014 -2018 ACS |
 | Living in poverty, %  | To be uploaded  | ACS via CDC SVI  | Notes |
 | Per capita income, $  | To be uploaded  | ACS via CDC SVI  | Per capita income estimate, 2014-2018 ACS |
