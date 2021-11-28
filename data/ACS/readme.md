@@ -14,7 +14,7 @@ American Community Survey (ACS), 2014-2018 (5-year)
 | Living in poverty, %  | To be uploaded  | ACS via CDC SVI  | Persons below poverty estimate, 2014-2018 ACS |
 | Per capita income, $  | To be uploaded  | ACS via CDC SVI  | Per capita income estimate, 2014-2018 ACS |
 | Unemployed, %  | To be uploaded  | ACS via CDC SVI  | Civilian (age 16+) unemployed estimate, 2014-2018 ACS |
-| Uninsured, %  | To be uploaded  | Source | Notes |
+| Uninsured, %  | To be uploaded  | Source | Uninsured in the total civilian noninstitutionalized population estimate, 2014-2018 ACS |
 | Renter, %  | To be uploaded  | Source | Notes |
 | Rent Burden, %  | To be uploaded  | Source | Notes |
 | Crowded Housing, %  | To be uploaded  | ACS via CDC SVI  | At household level (occupied housing units), more people than rooms estimate, 2014 -2018 ACS |
