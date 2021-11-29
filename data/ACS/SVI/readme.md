@@ -12,18 +12,18 @@
 | State | STATE|
 | County Name | COUNTY |
 | FIPS | FIPS |
-| Ethnic/racial minority % | E_MINRTY | 
-| Aged ≥ 65 y, %  | E_AGE65 | 
-| Aged ≤ 17 y, % | E_AGE17  | 
-| Disability, %  | E_DISABL | 
-| No high school diploma, %	| E_NOHSDP |
-| Limited English Proficiency, %  | E_LIMENG  | 
-| Single parent, %  | E_SNGPNT  | 
-| Living in poverty, %  | E_POV  | 
+| Ethnic/racial minority % | P_MINRTY | 
+| Aged ≥ 65 y, %  | P_AGE65 | 
+| Aged ≤ 17 y, % | P_AGE17  | 
+| Disability, %  | P_DISABL | 
+| No high school diploma, %	| P_NOHSDP |
+| Limited English Proficiency, %  | P_LIMENG  | 
+| Single parent, %  | P_SNGPNT  | 
+| Living in poverty, %  | P_POV  | 
 | Per capita income, $  | E_PCI  | 
-| Uninsured, % |  E_UNINSUR |
-| Unemployed, %  | E_UNEMP  | 
-| Crowded Housing, %  | E_CROWD | 
-| No vehicle, %  | E_NOVEH  |
+| Uninsured, % |  P_UNINSUR |
+| Unemployed, %  | P_UNEMP  | 
+| Crowded Housing, %  | P_CROWD | 
+| No vehicle, %  | P_NOVEH  |
 
 
