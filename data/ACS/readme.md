@@ -20,8 +20,8 @@ Column Heading | Variable  | Source  | Description |
 | P_CROWD | Crowded Housing, %  | ACS via CDC SVI  | At household level (occupied housing units), more people than rooms estimate, 2014 -2018 ACS |
 | P_NOVEH | No vehicle, %  | ACS via CDC SVI | Households with no vehicle available estimate, 2014 -2018 ACS|
 |P_UNINSUR | Uninsured, %  | ACS via CDC SVI  | Uninsured in the total civilian noninstitutionalized population estimate, 2014-2018 ACS |
-| P_RENTER | Renter, %  | ACS Table DP04| Notes |
-| P_RENTBURDEN | Rent Burden, %  | ACS Table DP04|| Notes |
+| P_RENTER | Renter, %  | ACS Table DP04| Percentage of renters estimate, 2010-2014 ACS |
+| P_RENTBURDEN | Rent Burden, %  | ACS Table DP04|| Percentage of renters paying over 30% of income towards housing estimate, 2014-2018 ACS |
 
 
 
