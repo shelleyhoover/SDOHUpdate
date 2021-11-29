@@ -1,6 +1,6 @@
 # ACS
 
-"ACS Data 2014-2018.csv" contains the following selected 2014-2018 (5-year) selected American Community Survey (ACS) variables: 
+"ACS Data 2014-2018.csv" contains the following selected 2014-2018 (5-year) selected American Community Survey (ACS) variables for US Census Tracts: 
 
 Column Heading | Variable  | Source  | Description |
 | -------- | ------------- | ------------- | ----- |
