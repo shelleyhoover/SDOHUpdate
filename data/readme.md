@@ -24,12 +24,14 @@
 
 
 ## Environmental Variables
-**To-Do**
-1.  Greenspace: NDVI - Sentinel  
-2. Bike Lanes (OSM) - MK check if RA has code
-3. Park Access (OSM) - MK check if RA has code
-4. Heat stress: Meteorology data 
-5. Elevation (DEM)
+
+| Variable  | Status | Source  | Notes |
+| ------------- | ------------- | ------------- | --------- |
+| Greenspace | In progress - MS | NDVI - Sentinel  | |
+| Bike Lanes | In progress -  MK  | OSM  | MK check if RA has code |
+| Park Access | In progress - MK | OSM  | MK check if RA has code |
+| Heat Stress | In progress - MS | [Google Meteorology Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)| 
+| Elevation (DEM) | In progress - MS | TBD | |
 
 
 ## ACS Variables (2014-2018)
