@@ -15,8 +15,9 @@
 
 ## Economic Variables
 **To-Do**
-1. Checking Stores, cash apps
-2. Job Opportunity Index
+1. Checking Stores, cash apps - SH Check in business dataset
+2. Job Opportunity Index 
+3. Individuals who moved address (address level) - IM to follow up on
 
 **Done - to be uploaded**
 1. Essential Workers
