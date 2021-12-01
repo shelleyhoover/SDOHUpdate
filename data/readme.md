@@ -1,8 +1,6 @@
 # Data
 
-## Census Tract Shapefile
 
-[2014 SDOH Census Tracts](https://geodacenter.github.io/data-and-lab/us-sdoh/)
 
 ## Social Variables
 
@@ -50,3 +48,11 @@
 13. Rent Burden, %
 14. Crowded Housing, %
 15. No vehicle, %
+
+## Health Outcome Variables
+
+
+
+# Census Tract Shapefile
+
+[2014 SDOH Census Tracts](https://geodacenter.github.io/data-and-lab/us-sdoh/)
