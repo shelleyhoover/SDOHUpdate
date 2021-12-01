@@ -6,9 +6,8 @@
 
 ## Social Variables
 **To-Do**
-1. Voter Registration
-2. Internet (OEPS+)
-3. Foreign-born %
+1. Internet (OEPS+) - Census - SH
+2. Foreign-born % - Census - SH
 
 **Done - to be uploaded**
 1. FQHC Centers 
@@ -16,10 +15,9 @@
 ## Economic Variables
 **To-Do**
 1. Checking Stores, cash apps - SH Check in business dataset
-2. No. of Jobs per Census Tract 
-3. Individuals who moved address (address level) - IM to follow up on
-4. Property Values (IM has for Florida - could we get at National Level?)
-5. Individuals holding 2+ jobs - ACS
+2. No. of Jobs per Census Tract - ?? IM checking
+3. Property Values (IM has for Florida - could we get at National Level? - look at Census maybe not)
+4. Individuals holding 2+ jobs - ACS -SH
 
 **Done - to be uploaded**
 1. Essential Workers
@@ -28,8 +26,8 @@
 ## Environmental Variables
 **To-Do**
 1.  Greenspace: NDVI - Sentinel  
-2. Bike Lanes (OSM)
-3. Park Access (OSM)
+2. Bike Lanes (OSM) - MK check if RA has code
+3. Park Access (OSM) - MK check if RA has code
 4. Heat stress: Meteorology data 
 5. Elevation (DEM)
 
