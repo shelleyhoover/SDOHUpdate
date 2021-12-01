@@ -5,13 +5,12 @@
 [2014 SDOH Census Tracts](https://geodacenter.github.io/data-and-lab/us-sdoh/)
 
 ## Social Variables
-**To-Do**
-1. Internet (OEPS+) - Census - SH
-2. Foreign-born % - Census - SH
 
-**Done - to be uploaded**
-1. FQHC Centers 
-
+| Variable  | Status | Source  | Notes  | 
+| ------------- | ------------- | ------------- | ------------- | 
+| Internet Access | In progress - SH | Census   | 
+| Foreign-born % | In progress - SH | Census | 
+| Access to Federal Qualified Health Centers   | To be uploaded  | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
 
 ## Economic Variables
 
@@ -22,7 +21,6 @@
 |Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA |SH checking |
 |No. of Jobs per census tract | In Progress - IM | |
 |Individuals holding 2+ jobs | In progress - SH | ACS | |
-
 
 
 ## Environmental Variables
