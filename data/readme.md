@@ -33,6 +33,7 @@
 
 
 ## ACS Variables (2014-2018)
+Needs to be cleaned (-999 values & nulls removed) - SH to do
 1. Ethnic/racial minority %
 2. Aged ≥ 65 y, %
 3. Aged ≤ 18 y, %
@@ -49,7 +50,14 @@
 14. Crowded Housing, %
 15. No vehicle, %
 
-## Health Outcome Variables
+## Potential Health Outcomes
+| Variable  | Status | Source  | Notes |
+| ------------- | ------------- | ------------- | --------- |
+| COVID-19 | In-Progress | TBD | Looking for Regional Tract Level Data |
+| Adjusted Premature Mortality Rates | In Progress - MK & IM | MK has Chicago, looking for additional regions |
+|Other regional tract level data | all look | | |
+
+
 
 
 
