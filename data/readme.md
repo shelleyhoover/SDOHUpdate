@@ -2,7 +2,7 @@
 
 ## Census Tract Shapefile
 
-[GeoDa  - The U.S. Social Determinants of Health](https://geodacenter.github.io/data-and-lab/us-sdoh/)
+[2014 SDOH Census Tracts](https://geodacenter.github.io/data-and-lab/us-sdoh/)
 
 ## Social Variables
 **To-Do**
