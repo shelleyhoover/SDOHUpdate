@@ -12,16 +12,18 @@
 **Done - to be uploaded**
 1. FQHC Centers 
 
-## Economic Variables
-**To-Do**
-1. Checking Stores, cash apps - SH Check in business dataset
-2. No. of Jobs per Census Tract - ?? IM checking
-3. Property Values (IM has for Florida - could we get at National Level? - look at Census maybe not)
-4. Individuals holding 2+ jobs - ACS -SH
 
-**Done - to be uploaded**
-1. Essential Workers
-2. Grocery stores/farmer's markets 
+## Economic Variables
+
+| Variable  | Status | Source  | Notes |
+| ------------- | ------------- | ------------- | ----- |
+| Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
+| Grocery Store/Farmer's Markets  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
+|Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA |SH checking |
+|No. of Jobs per census tract | In Progress - IM | |
+|Individuals holding 2+ jobs | In progress - SH | ACS | |
+
+
 
 ## Environmental Variables
 **To-Do**
