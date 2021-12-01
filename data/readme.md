@@ -16,7 +16,7 @@
 ## Economic Variables
 **To-Do**
 1. Checking Stores, cash apps - SH Check in business dataset
-2. # of Jobs per Census Tract 
+2. No. of Jobs per Census Tract 
 3. Individuals who moved address (address level) - IM to follow up on
 4. Property Values (IM has for Florida - could we get at National Level?)
 5. Individuals holding 2+ jobs - ACS
