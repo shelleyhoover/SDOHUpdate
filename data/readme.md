@@ -33,7 +33,7 @@
 
 
 ## ACS Variables (2014-2018)
-Needs to be cleaned (-999 values & nulls removed) - SH to do
+
 1. Ethnic/racial minority %
 2. Aged ≥ 65 y, %
 3. Aged ≤ 18 y, %
