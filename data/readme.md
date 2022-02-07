@@ -16,7 +16,7 @@
 | ------------- | ------------- | ------------- | ----- |
 | Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
 | Grocery Store/Farmer's Markets  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
-|Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA |SH checking |
+|Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
 |No. of Jobs per census tract | In Progress - IM | |
 |Individuals holding 2+ jobs | In progress - SH | ACS | |
 
