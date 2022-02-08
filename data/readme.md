@@ -18,7 +18,7 @@
 | Grocery Store/Farmer's Markets  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
 |Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
 |No. of Jobs per census tract | In Progress - IM | |
-|~~Multiple Job Holders | In Progress - SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
+|~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 
 ## Environmental Variables
 
