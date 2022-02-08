@@ -6,8 +6,8 @@
 
 | Variable  | Status | Source  | Notes  | 
 | ------------- | ------------- | ------------- | ------------- | 
-| Internet Access | In progress - SH | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
-| Foreign-born % | In progress - SH | Census | 
+| Internet Access | To be uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
+| Foreign-born % | To be uploaded| Census | 
 | Access to Federal Qualified Health Centers   | To be uploaded  | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
 
 ## Economic Variables
@@ -18,7 +18,7 @@
 | Grocery Store/Farmer's Markets  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
 |Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
 |No. of Jobs per census tract | In Progress - IM | |
-
+|~~Multiple Job Holders | In Progress - SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 
 ## Environmental Variables
 
