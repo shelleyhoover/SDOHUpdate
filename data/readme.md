@@ -59,7 +59,3 @@
 
 
 
-
-# Census Tract Shapefile
-
-[2014 SDOH Census Tracts](https://geodacenter.github.io/data-and-lab/us-sdoh/)
