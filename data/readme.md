@@ -9,6 +9,8 @@
 | Internet Access | To be uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
 | Foreign-born % | To be uploaded| Census | 
 | Access to Federal Qualified Health Centers   | To be uploaded  | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
+| Civic Participation | In progress - SH| ACS  | # people responding to the census |
+| Other languages beside English spoken in household | In progress - SH| ACS  | https://lehd.ces.census.gov/data/ |
 
 ## Economic Variables
 
@@ -17,7 +19,7 @@
 | Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
 | Grocery Store/Farmer's Markets  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
 |Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
-|No. of Jobs per census tract | In Progress - IM | |
+|No. of Jobs per census tract | In Progress - IM | LEHD |
 |~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 
 ## Environmental Variables
@@ -27,8 +29,11 @@
 | Greenspace | Uploaded | NDVI - Sentinel  | |
 | Bike Lanes | In progress -  MK  | OSM  | MK check if RA has code |
 | Park Access | In progress - MK | OSM  | MK check if RA has code |
-| Heat Stress | In progress - MS | [Google Meteorology Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)| 
-| Elevation (DEM) | Uploaded | TBD | |
+| Walkability | In progress - MK | ? |  |
+| Landsurface Temperature | Uploaded | [Google Meteorology Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)| 
+| % Tract covered by water| In progess - MS | ? |  |
+| Elevation (DEM) | Uploaded | ? | Ask MS what is the source |
+
 
 
 ## ACS Variables (2014-2018)
