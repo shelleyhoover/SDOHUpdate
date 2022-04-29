@@ -31,12 +31,12 @@
 | Park Access | In progress - MK | OSM  | MK check if RA has code |
 | Walkability | In progress - MK | ? |  |
 | Landsurface Temperature | Uploaded | [Google Meteorology Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)| 
-| % Tract covered by water| In progess - MS | ? |  |
+| % Tract covered by water| Uploaded | NCLD |  Open water: areas of open water, generally with less than 25% cover of vegetation or soil.|
 | Elevation (DEM) | Uploaded | ? | Ask MS what is the source |
 
 
 
-## ACS Variables (2014-2018)
+## ACS Variables (2015-2019)
 
 1. Ethnic/racial minority %
 2. Aged ≥ 65 y, %
