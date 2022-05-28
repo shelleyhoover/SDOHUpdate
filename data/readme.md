@@ -18,8 +18,8 @@
 | ------------- | ------------- | ------------- | ----- |
 | Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
 | Grocery Store  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
-|Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
-|~~No. of Jobs per census tract ~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
+|Money Lenders/Cash Exchange Stores| In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
+|~~No. of Jobs per census tract~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
 |~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 
 ## Environmental Variables
