@@ -19,7 +19,7 @@
 | Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
 | Grocery Store/Farmer's Markets  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
 |Checking Stores, Cash apps | In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
-|No. of Jobs per census tract | In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/|
+|~~No. of Jobs per census tract ~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
 |~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 
 ## Environmental Variables
@@ -28,8 +28,8 @@
 | ------------- | ------------- | ------------- | --------- |
 | Greenspace | Uploaded | NDVI - Sentinel  | |
 | Bike Lanes | In progress -  MK  | OSM  | MK check if RA has code |
-| Park Access | In progress - MK | OSM  | MK check if RA has code |
-| Walkability | In progress - MK | ? |  |
+| ~~Park Access~~ | In progress - MK | OSM  | Computational Issues in accessing at the tract level |
+| ~~Walkability~~ | In progress - MK |  | May need to remove due to challenges in accessing data |
 | Landsurface Temperature | Uploaded | [Google Meteorology Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)| 
 | % Tract covered by water| Uploaded | NCLD |  Open water: areas of open water, generally with less than 25% cover of vegetation or soil.|
 | Elevation (DEM) | Uploaded | ? | Ask MS what is the source |
