@@ -7,7 +7,7 @@
 | Variable  | Status | Source  | Notes  | 
 | ------------- | ------------- | ------------- | ------------- | 
 | Internet Access | To be uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
-| Foreign-born % | To be uploaded| Census | 
+| Foreign-born % | Uploaded| Census | 
 | Access to Federal Qualified Health Centers   | To be uploaded  | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
 | Civic Participation | In progress - SH| ACS  | # people responding to the census |
 | Other languages beside English spoken in household | In progress - SH| ACS  | |
