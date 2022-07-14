@@ -31,8 +31,10 @@
 | % Tract covered by water| Uploaded | NCLD |  Open water: areas of open water, generally with less than 25% cover of vegetation or soil.|
 | Elevation (DEM) | Uploaded | ? | Ask MS what is the source |
 
-## Removed Variables
+## Variables not included
+
 | Variable  | Status | Source  | Notes |
+| ------------- | ------------- | ------------- | --------- |
 |~~No. of Jobs per census tract~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
 |~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 | ~~Park Access~~ | In progress - MK | OSM  | Computational Issues in accessing at the tract level |
