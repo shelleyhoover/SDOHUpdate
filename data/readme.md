@@ -6,19 +6,19 @@
 
 | Variable  | Status | Source  | Notes  | 
 | ------------- | ------------- | ------------- | ------------- | 
-| Internet Access | To be uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
-| Foreign-born % | To be uploaded| ACS  | B05002  PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS |
+| Internet Access | Uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
+| Foreign-born % | Uploaded | ACS  | B05002  PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS |
 | Access to Federal Qualified Health Centers   | To be uploaded  | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
 | ~~Civic Participation~~ | In progress - SH| ACS  | B98021  HOUSING UNIT RESPONSE AND NONRESPONSE RATES WITH REASONS FOR NONINTERVIEWS - not available at tract level |
-| Other languages beside English spoken in household | To be uploaded| ACS  | S1601 -Percent English speakers over 5 years old speaking other language than English at Home |
+| Other languages beside English spoken in household | Uploaded | ACS  | S1601 -Percent English speakers over 5 years old speaking other language than English at Home |
 
 ## Economic Variables
 
 | Variable  | Status | Source  | Notes |
 | ------------- | ------------- | ------------- | ----- |
 | Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
-| Grocery Store  | To be uploaded  | Business Data - Reference USA | Drive time from centroid to nearest store/market | 
-|Money Lenders/Cash Exchange Stores| In Progress - SH  | Business Data - Reference USA | Multiple codes may work |
+| Grocery Store  | Uploaded | Business Data - Reference USA | Euclidean Distance to nearest Grocery Store | 
+|Money Lenders/Cash Exchange Stores| In Progress - SH  | Business Data - Reference USA | Euclidean Distance to FQHC center  |
 |~~No. of Jobs per census tract~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
 |~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
 
