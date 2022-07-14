@@ -8,19 +8,18 @@
 | ------------- | ------------- | ------------- | ------------- | 
 | Internet Access | Uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
 | Foreign-born % | Uploaded | ACS  | B05002  PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS |
-| Access to Federal Qualified Health Centers   | To be uploaded  | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
-| ~~Civic Participation~~ | In progress - SH| ACS  | B98021  HOUSING UNIT RESPONSE AND NONRESPONSE RATES WITH REASONS FOR NONINTERVIEWS - not available at tract level |
+| Access to Federal Qualified Health Centers   | Uploaded   | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
+| Civic Participation| In progress - SH| ACS  | B98021  HOUSING UNIT RESPONSE AND NONRESPONSE RATES WITH REASONS FOR NONINTERVIEWS - not available at tract level |
 | Other languages beside English spoken in household | Uploaded | ACS  | S1601 -Percent English speakers over 5 years old speaking other language than English at Home |
 
 ## Economic Variables
 
 | Variable  | Status | Source  | Notes |
 | ------------- | ------------- | ------------- | ----- |
-| Essential Workers  | To be uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
+| Essential Workers  | Uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
 | Grocery Store  | Uploaded | Business Data - Reference USA | Euclidean Distance to nearest Grocery Store | 
 |Money Lenders/Cash Exchange Stores| In Progress - SH  | Business Data - Reference USA | Euclidean Distance to FQHC center  |
-|~~No. of Jobs per census tract~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
-|~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
+
 
 ## Environmental Variables
 
@@ -28,13 +27,16 @@
 | ------------- | ------------- | ------------- | --------- |
 | Greenspace | Uploaded | NDVI - Sentinel  | |
 | Bike Lanes | In progress -  MK  | OSM  | MK check if RA has code |
-| ~~Park Access~~ | In progress - MK | OSM  | Computational Issues in accessing at the tract level |
-| ~~Walkability~~ | In progress - MK |  | May need to remove due to challenges in accessing data |
 | Landsurface Temperature | Uploaded | [Google Meteorology Data](https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_DAYMET_V4)| 
 | % Tract covered by water| Uploaded | NCLD |  Open water: areas of open water, generally with less than 25% cover of vegetation or soil.|
 | Elevation (DEM) | Uploaded | ? | Ask MS what is the source |
 
-
+## Removed Variables
+| Variable  | Status | Source  | Notes |
+|~~No. of Jobs per census tract~~| In Progress - IM | LEHD -  https://lehd.ces.census.gov/data/| Not accessible at tract level |
+|~~Multiple Job Holders~~| SH  | Longitudinal Employer-Househould Dynamics | Only state level available |
+| ~~Park Access~~ | In progress - MK | OSM  | Computational Issues in accessing at the tract level |
+| ~~Walkability~~ | In progress - MK |  | May need to remove due to challenges in accessing data |
 
 ## ACS Variables (2015-2019)
 
