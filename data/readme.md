@@ -31,7 +31,7 @@
 | % Tract covered by water| Uploaded | NCLD |  Open water: areas of open water, generally with less than 25% cover of vegetation or soil.|
 | Elevation (DEM) | Uploaded | ? | Ask MS what is the source |
 
-## Indicators Not Include:
+## Indicators Not Included:
 
 | Variable  |  Source  | Notes |
 | ------------- | ------------- | --------- |
