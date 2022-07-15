@@ -8,7 +8,7 @@
 | ------------- | ------------- | ------------- | ------------- | 
 | Internet Access | Uploaded | ACS  | B28002  2014-2018 PRESENCE AND TYPES OF INTERNET SUBSCRIPTIONS IN HOUSEHOLD |
 | Foreign-born % | Uploaded | ACS  | B05002  PLACE OF BIRTH BY NATIVITY AND CITIZENSHIP STATUS |
-| Access to Federal Qualified Health Centers   | Uploaded   | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Drive time from centroid to nearest FQHC |
+| Access to Federal Qualified Health Centers   | Uploaded   | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Access_FQHCs_MinDistance.md) | Euclidean Distance to FQHC center |
 | Civic Participation| Uploaded | ACS  | Decennial Self-Reponse Rates 2020 |
 | Other languages beside English spoken in household | Uploaded | ACS  | S1601 -Percent English speakers over 5 years old speaking other language than English at Home |
 
