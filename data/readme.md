@@ -18,7 +18,7 @@
 | ------------- | ------------- | ------------- | ----- |
 | Essential Workers  | Uploaded | [Opioid Policy Scan](https://github.com/GeoDaCenter/opioid-policy-scan/blob/master/data_final/metadata/Job_Categories_byOccupation_2018.md)  | 
 | Grocery Store  | Uploaded | Business Data - Reference USA | Euclidean Distance to nearest Grocery Store | 
-|Money Lenders/Cash Exchange Stores| Uploaded  | Business Data - Reference USA | Euclidean Distance to FQHC center  |
+|Money Lenders/Cash Exchange Stores| Uploaded  | Business Data - Reference USA | Euclidean Distance to Loan Store  |
 
 
 ## Environmental Variables
