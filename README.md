@@ -8,7 +8,7 @@
  
  DEM: https://code.earthengine.google.com/f0b9e9ed11db13eb940f165dcee01482
  
- NDVI: https://code.earthengine.google.com/27eb6b7635b7969dd1f3df0a24729584
+ NDVI: https://code.earthengine.google.com/95ae4adfd1e934ad6c7c76caa15ea805
 
 
 
