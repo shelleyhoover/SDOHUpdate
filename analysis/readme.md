@@ -12,9 +12,9 @@ No civic participation
 Contains 2 PCA/Cluster versions - 
 1. With Land Surface Tempurature: 
 	- Principal Components - "PCA#wLST" 
-	- Clusters - CL
+	- Clusters - "CLwithLST"
 2. Without Landsurface Temperature 
 	- Principal Components - "PCA#noLST" 
-	- Clusters - CLnoLST
+	- Clusters - "CLnoLST"
 
 
