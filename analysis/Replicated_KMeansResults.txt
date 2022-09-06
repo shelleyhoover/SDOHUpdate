@@ -1,0 +1,387 @@
+------
+Method:	KMeans
+Number of clusters:	11
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|   |PC1R     |PC2R     |PC3R     |PC4R      |
+|---|---------|---------|---------|----------|
+|C1 |1.7743   |0.131032 |0.329673 |-0.164112 |
+|C2 |1.47052  |-1.13066 |0.287175 |0.982281  |
+|C3 |0.145448 |1.20113  |1.23357  |-0.471758 |
+|C4 |1.48127  |-0.739145|-1.23036 |0.123358  |
+|C5 |-0.911647|0.76278  |-0.275289|0.718218  |
+|C6 |-2.41253 |-1.08339 |0.890571 |-0.0342491|
+|C7 |-3.76112 |2.48628  |-0.214271|1.46518   |
+|C8 |-2.1206  |-1.47396 |-0.980548|-1.05073  |
+|C9 |1.75498  |2.01184  |-0.380124|-2.36337  |
+|C10|-5.12509 |-2.90454 |0.649954 |-1.81548  |
+|C11|-1.21153 |0.877996 |-3.81029 |-0.256601 |
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|   |Within cluster S.S.|
+|---|-------------------|
+|C1 |9704.59            |
+|C2 |8734.56            |
+|C3 |9628.25            |
+|C4 |8727.92            |
+|C5 |8946.95            |
+|C6 |8055.34            |
+|C7 |10358.7            |
+|C8 |6532.15            |
+|C9 |8236.08            |
+|C10|6802.58            |
+|C11|8747.07            |
+
+The total within-cluster sum of squares:	94474.2
+The between-cluster sum of squares:	191314
+The ratio of between to total sum of squares:	0.669426
+
+------
+Method:	KMeans
+Number of clusters:	10
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|   |PC1R    |PC2R     |PC3R     |PC4R     |
+|---|--------|---------|---------|---------|
+|C1 |1.79445 |0.121861 |0.287842 |-0.148864|
+|C2 |1.50283 |-1.1376  |0.23893  |0.968372 |
+|C3 |0.146266|1.12788  |1.24371  |-0.444461|
+|C4 |1.09019 |-0.779976|-1.28395 |-0.049336|
+|C5 |-1.01053|0.733944 |-0.232771|0.752139 |
+|C6 |-2.47793|-1.26877 |0.607347 |-0.238009|
+|C7 |-3.77595|2.5167   |-0.21717 |1.45808  |
+|C8 |-4.64956|-2.71709 |0.0722761|-1.89789 |
+|C9 |1.67885 |1.99283  |-0.350498|-2.32825 |
+|C10|-1.47985|0.745216 |-3.6853  |-0.326655|
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|   |Within cluster S.S.|
+|---|-------------------|
+|C1 |9943.9             |
+|C2 |9397.51            |
+|C3 |10152.3            |
+|C4 |10731              |
+|C5 |9504.45            |
+|C6 |10903.2            |
+|C7 |10296.5            |
+|C8 |9540.01            |
+|C9 |8666.89            |
+|C10|9787.84            |
+
+The total within-cluster sum of squares:	98923.6
+The between-cluster sum of squares:	186864
+The ratio of between to total sum of squares:	0.653857
+
+------
+Method:	KMeans
+Number of clusters:	9
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R     |PC2R    |PC3R     |PC4R     |
+|--|---------|--------|---------|---------|
+|C1|1.68936  |0.172621|0.242155 |-0.110272|
+|C2|1.34687  |-1.03699|0.223216 |0.982847 |
+|C3|0.0903749|1.11029 |1.17567  |-0.364889|
+|C4|0.839708 |-0.62074|-1.28203 |0.0325803|
+|C5|-2.84642 |1.87924 |-0.22421 |1.24048  |
+|C6|-2.38852 |-1.156  |0.558981 |-0.146485|
+|C7|-4.5673  |-2.66751|0.106704 |-1.8403  |
+|C8|1.68576  |1.95379 |-0.317756|-2.30019 |
+|C9|-1.53092 |0.81106 |-3.70845 |-0.336564|
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|11599.7            |
+|C2|11135.8            |
+|C3|11383.3            |
+|C4|12797.1            |
+|C5|17061.1            |
+|C6|11399.6            |
+|C7|10287.3            |
+|C8|8816.65            |
+|C9|9957.49            |
+
+The total within-cluster sum of squares:	104438
+The between-cluster sum of squares:	181350
+The ratio of between to total sum of squares:	0.634561
+
+------
+Method:	KMeans
+Number of clusters:	8
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R    |PC2R     |PC3R     |PC4R      |
+|--|--------|---------|---------|----------|
+|C1|0.805846|0.809849 |0.883821 |-0.291847 |
+|C2|1.52475 |-0.865736|0.259016 |0.816247  |
+|C3|1.23533 |-0.392838|-0.923862|-0.0853737|
+|C4|-2.79964|1.87488  |-0.179323|1.19924   |
+|C5|-2.29775|-1.06982 |0.569206 |-0.0936891|
+|C6|-4.48099|-2.62594 |0.111728 |-1.78291  |
+|C7|1.54565 |2.00933  |-0.220248|-2.25541  |
+|C8|-1.28166|0.552436 |-3.4915  |-0.223425 |
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|17144.1            |
+|C2|14230.9            |
+|C3|15901.7            |
+|C4|18080.4            |
+|C5|12305.9            |
+|C6|11033.1            |
+|C7|9724.01            |
+|C8|11302.1            |
+
+The total within-cluster sum of squares:	109722
+The between-cluster sum of squares:	176066
+The ratio of between to total sum of squares:	0.616071
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R    |PC2R      |PC3R     |PC4R      |
+|--|--------|----------|---------|----------|
+|C1|1.26989 |-0.0349497|0.209485 |-0.0156085|
+|C2|-2.06849|1.36814   |-0.867183|0.725058  |
+|C3|-3.30435|-1.82532  |0.223563 |-0.981865 |
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|102511             |
+|C2|58907.8            |
+|C3|31763.9            |
+
+The total within-cluster sum of squares:	193182
+The between-cluster sum of squares:	92605.8
+The ratio of between to total sum of squares:	0.324037
+
+------
+Method:	KMeans
+Number of clusters:	4
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R    |PC2R    |PC3R     |PC4R    |
+|--|--------|--------|---------|--------|
+|C1|1.29343 |-0.70904|-0.284613|0.45404 |
+|C2|0.892234|0.949425|0.666016 |-0.64266|
+|C3|-2.5568 |1.60379 |-0.741088|0.899468|
+|C4|-3.46206|-1.88048|0.21836  |-1.03809|
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|49039.3            |
+|C2|41226.9            |
+|C3|40561.6            |
+|C4|28700.9            |
+
+The total within-cluster sum of squares:	159529
+The between-cluster sum of squares:	126259
+The ratio of between to total sum of squares:	0.441793
+
+------
+Method:	KMeans
+Number of clusters:	5
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R      |PC2R     |PC3R      |PC4R     |
+|--|----------|---------|----------|---------|
+|C1|1.32061   |-0.69034 |0.0580385 |0.511635 |
+|C2|0.916538  |1.02685  |0.678159  |-0.724434|
+|C3|-2.73881  |1.6786   |-0.0999554|1.1004   |
+|C4|-3.55079  |-1.96509 |0.374597  |-1.0383  |
+|C5|-0.0822734|0.0370726|-2.38129  |-0.283788|
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|32973.9            |
+|C2|34375.6            |
+|C3|23437              |
+|C4|23834.8            |
+|C5|23470.9            |
+
+The total within-cluster sum of squares:	138092
+The between-cluster sum of squares:	147696
+The ratio of between to total sum of squares:	0.516802
+
+------
+Method:	KMeans
+Number of clusters:	6
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R     |PC2R      |PC3R      |PC4R     |
+|--|---------|----------|----------|---------|
+|C1|1.40299  |-0.811504 |-0.0968156|0.53529  |
+|C2|0.668906 |0.67292   |0.850698  |-0.236428|
+|C3|-2.84495 |1.72427   |-0.147847 |1.15555  |
+|C4|-3.58367 |-1.99852  |0.359727  |-1.04625 |
+|C5|-0.351777|0.00276117|-2.51935  |-0.16329 |
+|C6|1.53323  |1.71401   |-0.248958 |-1.9579  |
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|28767.5            |
+|C2|21398.5            |
+|C3|21303.1            |
+|C4|22964.1            |
+|C5|19183.6            |
+|C6|12725.3            |
+
+The total within-cluster sum of squares:	126342
+The between-cluster sum of squares:	159446
+The ratio of between to total sum of squares:	0.557916
+
+------
+Method:	KMeans
+Number of clusters:	7
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+Use geometric centroids (weighting): 
+  Centroid (X) 0.05
+  Centroid (Y) 0.05
+  PC1R 0.225
+  PC2R 0.225
+  PC3R 0.225
+  PC4R 0.225
+
+Cluster centers:
+|  |PC1R     |PC2R     |PC3R     |PC4R     |
+|--|---------|---------|---------|---------|
+|C1|1.70084  |-0.164136|-0.320381|-0.108347|
+|C2|0.383573 |0.787839 |1.06063  |-0.262892|
+|C3|0.879375 |-1.05895 |0.123144 |0.905634 |
+|C4|-2.88663 |1.79365  |-0.181241|1.15825  |
+|C5|-3.65841 |-2.03737 |0.326136 |-1.10533 |
+|C6|-0.705593|0.0802582|-2.9219  |-0.135436|
+|C7|1.50342  |2.01386  |-0.238616|-2.22131 |
+
+The total sum of squares:	285788
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|16516.9            |
+|C2|16661.6            |
+|C3|17278              |
+|C4|19728              |
+|C5|21745.3            |
+|C6|15489              |
+|C7|10299.3            |
+
+The total within-cluster sum of squares:	117718
+The between-cluster sum of squares:	168070
+The ratio of between to total sum of squares:	0.588093
+
