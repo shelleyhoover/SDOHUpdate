@@ -1,7 +1,7 @@
 # SDOH Update
  Files & Data for updating the SDOH Atlas
  
- ## Google Earth Engine code links for each variable (2022/07/29)
+ ## Google Earth Engine code links for each variable (2022/09/12)
  Percent Water: https://code.earthengine.google.com/dd7eca22cfe0fb9a03626f8680c899c9
  
  MODIS LST: https://code.earthengine.google.com/b5754d9a2b9d533631ed74f16816d340
