@@ -1,7 +1,7 @@
 # Data
 
-## Final Data Set
-Final shhapefile name "SDOH 2022 Old and New Indicators.zip"
+## Final Covariate Data Set
+Final shapefile name "SDOH 2022 Old and New Indicators.zip"
 
 | Column Name | Description|
 | ------------- | ------------- |
