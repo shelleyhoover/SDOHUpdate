@@ -1,7 +1,7 @@
 # Data
 
 ## Final Data Set
-###shapefile name "SDOH 2022 Old and New Combined Indicators.zip"
+###shapefile name "SDOH 2022 Old and New Indicators.zip"
 
 | Column Name | Description|
 | ------------- | ------------- |
