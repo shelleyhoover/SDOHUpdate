@@ -1,6 +1,44 @@
 # Data
 
+## Final Data Set
+###shapefile name "SDOH 2022 Old and New Combined Indicators.zip"
 
+| Column Name | Description|
+| ------------- | ------------- |
+| AFFGEOID |	AFFGEOID
+|Name	|Tract Name
+|E_TOTPOP	|Total Population
+|GEOID|	GEOID
+|EP_POV	|Living in poverty, %
+|EP_UNEMP	|Unemployed, %
+|EP_PCI	|Per capita income, $
+|EP_AGE65|	Aged ≥ 65 y, %
+|EP_AGE17	|Aged ≤ 17 y, %
+|EP_DISABL|	Disability, %
+|EP_SNGPNT	|Single parent, %
+|EP_MINRTY	|Ethnic/racial minority %
+|EP_LIMENG	|Limited English Proficiency, %
+|EP_CROWD	|Crowded Housing, %
+|EP_UNINSR	|Uninsured, %
+|EP_RENTER	|Renters / Housing Units 
+|EP_RENTBURD	|Percentage of renters paying over 30% of income towards housing estimate
+|EP_NOVEH	|No vehicle, %
+|EP_NOHSDP|	No high school diploma, %
+|INTERNET	|Percent Internet Access
+|FOREIGNBOR	|Percent Foreign Born
+|FQHC	D|istance to nearest FQHC Centers
+|OTHERENGL	|Percent other languages beside English spoken in household
+|ESSENTIAL	|Essential Workers
+|GROCERY	|Distance to nearest Grocery Stores
+|LOANSTORE|	Distance to nearest Access to Loan Stores
+|CIVICPART|	Civic Participation (Response Rates to Decennial Census)
+|GREENSPACE	|Greenspace (NDVI)
+|SURFACETEM |	Land Surface Temps - Average LSTC – MODIS with interpolated values for neighboring areas
+|ELEVAT	|Elevation - meters above sea level
+|WATER2	|Water Percent 
+|FQHC_PA	|Population Adjusted Distance to nearest FQHC Centers
+|GROCERY_PA |	Population Adjusted Distance to nearest Grocery Stores
+|LOAN_PA	|Population Adjusted Distance to nearest Access to Loan Stores
 
 ## Social Variables
 
