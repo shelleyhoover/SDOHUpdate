@@ -1,1 +1,79 @@
+Health Data Download & Manipulation
+Download data from: https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation/national-data-documentation-2010-2023
+On August 5th, 2025
+•	SDOH_Project/CSDS\ SDOH\ Update/SDOH\ OverTime/Health\ Data/CHR_2025_Data.csv 
+
+Using County Health Rankings data because it best matches (but not perfectly) data of ACS data used for SDOH analysis.    (Ie – 2023 County Health Ranking Data uses 2017-2021 whereas 2025 uses 2020-2022) 
+
+•	Years of potential life lost before age 75 per 100,000 population (age-adjusted) What it is Premature Death is the years of potential life lost before age 75 (YPLL-75). Every death occurring before the age of 75 contributes to the total number of years of potential life lost. For example, a person dying at age 25 contributes 50 years of life lost to a county’s YPLL, whereas a person who dies at age 65 contributes 10 years of life. The YPLL measure is presented as a rate per 100,000 population and is age-adjusted to the 2000 US population
+Data and Metadata for Health Indicators (All County Health Rankings) 
+	Premature Mortality	Quality of Life
+2009-2013
+
+County Health Rankings Year = 2015	•	National Center for Health Statistics – Mortality Files 2010-2012	•	Poor physical health days (36) Behavioral Risk Factor Surveillance System 2006-2012
+•	Poor mental health days (42) Behavioral Risk Factor Surveillance System 2006-2012
+2014-2018 Data 
+
+
+County Health Rankings Year = 2020	•	Premature death (1)* 50% National Center for Health Statistics - Mortality Files 2016-2018	•	Poor physical health days Behavioral Risk Factor Surveillance System 2017
+•	Poor mental health days Behavioral Risk Factor Surveillance System 2017
+2019-2023 ACS Data
+
+County Health Ranking Year = 2025	•	Premature Age-Adjusted Mortality* National Center for Health Statistics - Natality and Mortality Files; Census Population Estimates Program 2020-2022
+	•	Physical health Frequent Physical Distress Behavioral Risk Factor Surveillance System 2022
+•	Mental health Frequent Mental Distress Behavioral Risk Factor Surveillance System 2022
+
+
+Relevant Data Codes: 
+*just overall for now but they do have them broken out by race which might be interesting
+Measure	2009-2013 (2015 CHR) 	2014-2018 (2020 CHR) 	2019-2023 (2025 CHR) 
+Premature Age-Adjusted Mortality raw value*	v127_rawvalue	v127_rawvalue	v127_rawvalue
+Premature Age-Adjusted Mortality numerator	v127_numerator	v127_numerator	v127_numerator
+Premature Age-Adjusted Mortality denominator	v127_denominator	v127_denominator	v127_denominator
+Premature Age-Adjusted Mortality CI low	v127_cilow	v127_cilow	v127_cilow
+Premature Age-Adjusted Mortality CI low	v127_cihigh	v127_cihigh	v127_cihigh
+Poor Physical Health Days raw value	v036_rawvalue	v036_rawvalue	v036_rawvalue
+Poor Physical Health Days numerator	v036_numerator	v036_numerator	v036_numerator
+Poor Physical Health Days denominator	v036_denominator	v036_denominator	v036_denominator
+Poor Physical Health Days CI low	v036_cilow	v036_cilow	v036_cilow
+Poor Physical Health Days CI high	v036_cihigh	v036_cihigh	v036_cihigh
+Poor Mental Health Days raw value	v042_rawvalue	v042_rawvalue	v042_rawvalue
+Poor Mental Health Days numerator	v042_numerator	v042_numerator	v042_numerator
+Poor Mental Health Days denominator	v042_denominator	v042_denominator	v042_denominator
+Poor Mental Health Days CI low	v042_cilow	v042_cilow	v042_cilow
+Poor Mental Health Days CI high	v042_cihigh	v042_cihigh	v042_cihigh
+
+Description	Code
+State FIPS Code	statecode
+County FIPS Code	countycode
+5-digit FIPS Code	fipscode
+State Abbreviation	state
+Name	county
+Release Year	year
+County Clustered (Yes=1/No=0)	county_clustered
+Premature Death raw value	v001_rawvalue
+Premature Death numerator	v001_numerator
+Premature Death denominator	v001_denominator
+Premature Death CI low	v001_cilow
+Premature Death CI high	v001_cihigh
+Premature Death flag (0 = No Flag/1=Unreliable/2=Suppressed)	v001_flag
+Poor Physical Health Days raw value	v036_rawvalue
+Poor Physical Health Days numerator	v036_numerator
+Poor Physical Health Days denominator	v036_denominator
+Poor Physical Health Days CI low	v036_cilow
+Poor Physical Health Days CI high	v036_cihigh
+Poor Mental Health Days raw value	v042_rawvalue
+Poor Mental Health Days numerator	v042_numerator
+Poor Mental Health Days denominator	v042_denominator
+Poor Mental Health Days CI low	v042_cilow
+Poor Mental Health Days CI high	v042_cihigh
+Premature Age-Adjusted Mortality raw value	v127_rawvalue
+Premature Age-Adjusted Mortality numerator	v127_numerator
+Premature Age-Adjusted Mortality denominator	v127_denominator
+Premature Age-Adjusted Mortality CI low	v127_cilow
+Premature Age-Adjusted Mortality CI high	v127_cihigh
+
+
+Time Series Regression: 
+Estimate Effects of SDOH (15 Variables) on 
 
